@@ -1,0 +1,12 @@
+{
+  "name": "dec2bin",
+  "version": "1.0.0",
+  "description": "Library to convert Decimal number to Binary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["decimal", "binary"],
+  "author": "Gildas Niyigena <gildniy05@gmail.com>",
+  "license": "MIT"
+}
